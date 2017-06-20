@@ -10,3 +10,9 @@
 2. 存储，存储用户的tag，爬取的内容等
 3. webserver
 4. spider
+
+##plan
+1. 需求的3个case务必完成。
+2. 开始写spider，定时触发，多线程，多进程。一个个爬取。
+3. 注意存储，注意效率。
+4. tag_db->spider->content_db->webserver->app
